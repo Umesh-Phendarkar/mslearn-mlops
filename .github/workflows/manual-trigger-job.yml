@@ -1,4 +1,5 @@
 name: Manually trigger an Azure Machine Learning job
+## Test workflow
 
 on:
   workflow_dispatch:
